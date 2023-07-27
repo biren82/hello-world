@@ -1,19 +1,19 @@
 <form method="get" enctype="application/x-www-form-urlencoded" action="/html/codes/html_form_handler.cfm">
 
 <p>
-<label>Name
+<label>NameNAME
 <input type="text" name="customer_name" required>
 </label> 
 </p>
 
 <p>
-<label>Phone 
+<label>PhonePHONE 
 <input type="tel" name="phone_number">
 </label>
 </p>
 
 <p>
-<label>Email 
+<label>EmailEMAIL 
 <input type="email" name="email_address">
 </label>
 </p>
